@@ -1,0 +1,38 @@
+{
+  "name": "how-to-scrape-uline",
+  "version": "1.0.0",
+  "description": "Scrape Uline product catalog data: SKUs, names, base prices, quantity pricing tiers, dimensions, shipping weights, images, and availability metrics.",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "apify",
+    "apify-actor",
+    "data-extraction",
+    "web-scraping",
+    "ecommerce",
+    "industrial-supply",
+    "b2b-data",
+    "uline",
+    "uline-scraper",
+    "uline-data",
+    "uline-prices",
+    "product-catalog",
+    "bulk-pricing",
+    "procurement",
+    "shipping-supplies",
+    "packaging",
+    "price-monitoring",
+    "inventory-tracking",
+    "usa",
+    "canada"
+  ],
+  "author": "Devansh-365",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "apify-client": "^2.12.0",
+    "dotenv": "^16.5.0"
+  }
+}
